@@ -1,0 +1,1 @@
+This is a project on relational database and we will be looking at MYSQL.
