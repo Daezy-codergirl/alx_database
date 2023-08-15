@@ -1,3 +1,3 @@
--- show a list of all the available tables
+-- show list of tables
 
-SHOW tables IN crystalventuresdb;
+SHOW tables in hbtn_0c_0;
