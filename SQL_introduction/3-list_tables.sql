@@ -1,6 +1,10 @@
--- use database_name
+-- create database
 
-USE  hbtn_0c_0;
+CREATE SCHEMA IF NOT EXISTS hbtn_test_db_0;
+
+-- use database name
+
+USE hbtn_test_db_0;
 
 -- create 3 tables and add atleast one column
 
